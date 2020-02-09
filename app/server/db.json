@@ -1,0 +1,25 @@
+{
+  "kitaplar": [
+    {
+      "id": 1,
+      "kitapAdi": "Kürk Mantolu Madonna",
+      "kitapYazar": "Sabahattin Ali",
+      "yayinevi": "Yapı Kredi Yayınları",
+      "cikisTarihi": "Ocak 2019"
+    },
+    {
+      "kitapAdi": "Küçük Prens",
+      "kitapYazar": " Antoine de Saint-Exupéry",
+      "yayinevi": "Can Çocuk Yayınları",
+      "cikisTarihi": "Ocak 2015",
+      "id": 2
+    },
+    {
+      "kitapAdi": "Şeker Portakalı",
+      "kitapYazar": " José Mauro de Vasconcelos",
+      "yayinevi": " Can Yayınları",
+      "cikisTarihi": " 1 Şubat 2018",
+      "id": 4
+    }
+  ]
+}
