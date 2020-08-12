@@ -6,8 +6,8 @@
 yarn install
 
 # development
-yarn server - (json server start)
-(add new terminal)  yarn start
+yarn server
+yarn start (add new terminal)  
 
 # production
 yarn build
